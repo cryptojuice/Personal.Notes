@@ -4,7 +4,7 @@ MongoDB Basics
 **SQL to Mongo Chart**
 ***
 
-| SQL Term     | MongoDB Term           |
+| **SQL Term** | **MongoDB Term**       |
 |:------------:|:----------------------:|
 | database     | database               |
 | table        | collection             |
