@@ -1,7 +1,7 @@
 MongoDB Basics
 ==============
 
-**bold**SQL to Mongo Chart
+**SQL to Mongo Chart**
 ***
 
 | SQL Term     | MongoDB Term           |
