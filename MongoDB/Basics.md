@@ -1,7 +1,7 @@
 MongoDB Basics
 ==============
 
-**SQL to Mongo Chart**
+**SQL To MongoDB Comparison Chart**
 ***
 
 | **SQL Term** | **MongoDB Term**       |
